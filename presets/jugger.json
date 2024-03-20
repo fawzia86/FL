@@ -38,7 +38,7 @@
     "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
         "juggernautXL_version7Rundiffusion.safetensors": "https://civitai.com/api/download/models/240840",
-        "juggernautXL_realvisxl.safetensors": https://civitai.com/api/download/models/344487"
+        "juggernautXL_realvisxl.safetensors": "https://civitai.com/api/download/models/344487"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/86553"
