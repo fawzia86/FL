@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_version7Rundiffusion.safetensors",
+    "default_model": "juggernautXL_version9Rundiffusion.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -37,7 +37,7 @@
     ],
     "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
-        "juggernautXL_version7Rundiffusion.safetensors": "https://civitai.com/api/download/models/240840"
+        "juggernautXL_version9Rundiffusion.safetensors": "https://civitai.com/api/download/models/357609"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/86553"
