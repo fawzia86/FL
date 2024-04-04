@@ -1,5 +1,5 @@
 {
-    "default_model": "9Rundiffusion.safetensors",
+    "default_model": "juggernautXL_version9Rundiffusion.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -35,9 +35,9 @@
         "Fooocus V2",
         "Fooocus Photograph"
     ],
-    "default_aspect_ratio": "1280*720",
+    "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
-        "9Rundiffusion.safetensors": "https://civitai.com/api/download/models/357609",
+        "juggernautXL_version9Rundiffusion.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/764940/juggernaut.3Ms8.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22juggernautXL_v9Rdphoto2Lightning.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20240404/us-east-1/s3/aws4_request&X-Amz-Date=20240404T053836Z&X-Amz-SignedHeaders=host&X-Amz-Signature=1de3b444b68e09f86b8f9c993e9dcf8fd28d66d1375923d4322fbeec4533c57f"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/86553"
