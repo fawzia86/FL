@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_version7Rundiffusion.safetensors",
+    "default_model": "DetailRealisticXL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -8,19 +8,19 @@
             0.1
         ],
         [
-            "None",
+            "DetailTweakerXL.safetensors",
             1.0
         ],
         [
-            "None",
+            "MJV6LightroomDetailer.safetensors",
             1.0
         ],
         [
-            "None",
+            "HandDetailXL.safetensors",
             1.0
         ],
         [
-            "None",
+            "CoolWear.safetensors",
             1.0
         ]
     ],
@@ -35,14 +35,18 @@
         "Fooocus V2",
         "Fooocus Photograph"
     ],
-    "default_aspect_ratio": "1080*720",
+    "default_aspect_ratio": "1280*720",
     "checkpoint_downloads": {
-        "juggernautXL_version7Rundiffusion.safetensors": "https://civitai.com/api/download/models/240840"
+        "DetailRealisticXL.safetensors": "https://civitai.com/api/download/models/366853"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/86553"
     },    
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
+        "DetailTweakerXL.safetensors": "https://civitai.com/api/download/models/135867",
+        "MJV6LightroomDetailer.safetensors": "https://civitai.com/api/download/models/288928",
+        "HandDetailXL.safetensors": "https://civitai.com/api/download/models/294259",
+        "CoolWear.safetensors": "https://civitai.com/api/download/models/81492"
     }
 }
