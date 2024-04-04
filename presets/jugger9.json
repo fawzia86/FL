@@ -43,10 +43,6 @@
         "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/86553"
     },    
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "DetailTweakerXL.safetensors": "https://civitai.com/api/download/models/135867",
-        "MJV6LightroomDetailer.safetensors": "https://civitai.com/api/download/models/288928",
-        "HandDetailXL.safetensors": "https://civitai.com/api/download/models/294259",
-        "CoolWear.safetensors": "https://civitai.com/api/download/models/81492"
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
     }
 }
