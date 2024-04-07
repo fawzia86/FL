@@ -1,5 +1,5 @@
 {
-    "default_model": "9527DetailRealistic_v30.safetensors",
+    "default_model": "Juger9Ligt.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -37,7 +37,7 @@
     ],
     "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
-        "9527DetailRealistic_v30.safetensors": "https://drive.usercontent.google.com/download?id=1FIoyVJLNMwNOp10pgtY4J7iNXNgTOY0p&export=download&authuser=0&confirm=t&uuid=441870f6-abb3-4ad6-b3bb-8210b10c9375&at=APZUnTUzK5_uPfkd5debbUejHhdd%3A1712455661632"
+        "Juger9Ligt.safetensors": "https://civitai.com/api/download/models/357609"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/86553"
