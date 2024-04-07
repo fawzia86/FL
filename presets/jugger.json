@@ -37,8 +37,7 @@
     ],
     "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
-        "9527DetailRealistic_v30.safetensors": "https://drive.usercontent.google.com/download?id=1FIoyVJLNMwNOp10pgtY4J7iNXNgTOY0p&export=download&authuser=0&confirm=t&uuid=441870f6-abb3-4ad6-b3bb-8210b10c9375&at=APZUnTUzK5_uPfkd5debbUejHhdd%3A1712455661632",
-        "Jugger9light_v30.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/764940/juggernaut.3Ms8.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22juggernautXL_v9Rdphoto2Lightning.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20240407/us-east-1/s3/aws4_request&X-Amz-Date=20240407T021310Z&X-Amz-SignedHeaders=host&X-Amz-Signature=36d2399768d3e729258b4bac356691f704a25893de5ae6f64de69cb64313ef08"
+        "9527DetailRealistic_v30.safetensors": "https://drive.usercontent.google.com/download?id=1FIoyVJLNMwNOp10pgtY4J7iNXNgTOY0p&export=download&authuser=0&confirm=t&uuid=441870f6-abb3-4ad6-b3bb-8210b10c9375&at=APZUnTUzK5_uPfkd5debbUejHhdd%3A1712455661632"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/86553"
