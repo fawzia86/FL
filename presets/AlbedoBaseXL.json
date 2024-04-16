@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_version7Rundiffusion.safetensors",
+    "default_model": "AlbedoBaseXL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -33,14 +33,15 @@
     "default_prompt_negative": "",
     "default_styles": [
         "Fooocus V2",
-        "Fooocus Photograph"
     ],
     "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
-        "juggernautXL_version7Rundiffusion.safetensors": "https://civitai.com/api/download/models/240840"
+        "AlbedoBaseXL.safetensors": "https://civitai.com/api/download/models/329420"
     },
     "embeddings_downloads": {
-        "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/86553"
+        "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/86553",
+        "badhandv4:1.4.safetensors": "https://civitai.com/api/download/models/20068",
+        "EasyNegative.safetensors": "https://civitai.com/api/download/models/9208"    
     },    
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
