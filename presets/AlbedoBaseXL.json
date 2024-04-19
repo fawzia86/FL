@@ -51,7 +51,7 @@
         "detailed_hands.safetensors": "https://huggingface.co/wfdsdfsdfwer/9527DetailRealistic_v40Lighting4S/resolve/main/detailed_hands-000002.safetensors",
         "dd-detail-xl.safetensors": "https://huggingface.co/wfdsdfsdfwer/9527DetailRealistic_v40Lighting4S/resolve/main/add-detail-xl.safetensors",
         "coolwear.safetensors": "https://huggingface.co/wfdsdfsdfwer/9527DetailRealistic_v40Lighting4S/resolve/main/CoolWear.safetensors",
-        "xl_more_art-full.safetensors": "https://civitai.com/api/download/models/152309",
-        "DreamART Style LORA.safetensors": "https://civitai.com/api/download/models/137124"
+        "xl_more_art-full.safetensors": "https://huggingface.co/wfdsdfsdfwer/9527DetailRealistic_v40Lighting4S/resolve/main/xl_more_art-full_v1.safetensors",
+        "DreamART Style LORA.safetensors": "https://huggingface.co/wfdsdfsdfwer/9527DetailRealistic_v40Lighting4S/resolve/main/DreamARTSDXL.safetensors"
     }
 }
