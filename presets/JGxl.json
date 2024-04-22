@@ -41,8 +41,6 @@
          "SDVN7-NijiStyleXL.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/sdvn7Nijistylexl_v1.safetensors"       
     },
     "embeddings_downloads": {
-        "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/363593",
-        "badhandv4:1.4.safetensors": "https://civitai.com/api/download/models/20068",
         "EasyNegative.safetensors": "https://civitai.com/api/download/models/9208"    
     },    
     "lora_downloads": {
