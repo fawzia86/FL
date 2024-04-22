@@ -41,7 +41,9 @@
          "SDVN7-NijiStyleXL.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/sdvn7Nijistylexl_v1.safetensors"       
     },
     "embeddings_downloads": {
-        "EasyNegative.safetensors": "https://civitai.com/api/download/models/9208"    
+        "unaestheticXLv31.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/unaestheticXL_Alb2.safetensors",
+        "badhandv4:1.4.safetensors": "https://civitai.com/api/download/models/20068",
+        "EasyNegative.safetensors": "https://civitai.com/api/download/models/9208"
     },    
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
