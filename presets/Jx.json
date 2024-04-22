@@ -36,9 +36,7 @@
     ],
     "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
-        "Jugerx.safetensors": "https://civitai.com/api/download/models/456194",
-        "Juger8.safetensors": "https://civitai.com/api/download/models/288982",
-        "SDVN7NijiStyleXL.safetensors": "https://civitai.com/api/download/models/155870"
+        "Jugerx.safetensors": "https://civitai.com/api/download/models/456194"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/363593",
