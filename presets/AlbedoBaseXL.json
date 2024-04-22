@@ -1,5 +1,5 @@
 {
-    "default_model": "AlbedoBaseXL.safetensors",
+    "default_model": "juggernautX.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -33,11 +33,10 @@
     "default_prompt_negative": "",
     "default_styles": [
         "Fooocus V2",
-        "Fooocus Enhance"
     ],
     "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
-        "AlbedoBaseXL.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/juggernautXL_juggernautX.safetensors?download=true",
+        "juggernautX.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/juggernautXL_juggernautX.safetensors"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/363593",
