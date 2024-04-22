@@ -33,6 +33,7 @@
     "default_prompt_negative": "",
     "default_styles": [
         "Fooocus V2",
+        "Fooocus Enhance"
     ],
     "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
