@@ -38,8 +38,7 @@
     "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
         "juggernautX.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/juggernautXL_juggernautX.safetensors",
-         "SDVN7-NijiStyleXL
-.safetensors": "https://civitai.com/api/download/models/155870"       
+         "SDVN7-NijiStyleXL.safetensors": "https://civitai.com/api/download/models/155870"       
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://civitai.com/api/download/models/363593",
