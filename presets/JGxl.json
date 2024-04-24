@@ -38,7 +38,7 @@
     "default_aspect_ratio": "1080*720",
     "checkpoint_downloads": {
         "AlbedoBaseXL.safetensors": "https://civitai.com/api/download/models/329420",
-         "SDVN7-NijiStyleXL.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/sdvn7Nijistylexl_v1.safetensors"       
+         "SDXL.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/sdXL_v10VAEFix.safetensors?download=true"       
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/unaestheticXL_Alb2.safetensors",
