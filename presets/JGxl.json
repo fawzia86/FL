@@ -39,7 +39,8 @@
     "checkpoint_downloads": {
         "AlbedoBaseXL.safetensors": "https://civitai.com/api/download/models/329420",
         "protovisionXL.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/protovisionXLHighFidelity3D_release0630Bakedvae.safetensors?download=true",
-         "DetailRealistic_v30.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/9527DetailRealistic_v30.safetensors?download=true"
+        "DetailRealistic_v30.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/9527DetailRealistic_v30.safetensors?download=true",
+        "animagine-xl-3.1.safetensors": "https://huggingface.co/cagliostrolab/animagine-xl-3.1/resolve/main/animagine-xl-3.1.safetensors?download=true"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/unaestheticXL_Alb2.safetensors",
