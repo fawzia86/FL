@@ -53,10 +53,11 @@
         "MJ.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/mjilluminate-000010.safetensors",
         "detailed_notrigger.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/detailed_notrigger.safetensors",
         "detailed_hands.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/detailed_hands-000002.safetensors",
-        "add-detail-xl.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/add-detail-xl.safetensors",
+        "dd-detail-xl.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/add-detail-xl.safetensors",
+        "ChiaroscuroLighting.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/Chiaroscuro%20Lighting%20Style.safetensors?download=true",
+        "perfectionstyle.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/perfection%20style.safetensors?download=true",
+        "DetailedEyes.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/DetailedEyes_V3.safetensors?download=true",
         "coolwear.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/CoolWear.safetensors",
-        "xl_more_art-full.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/xl_more_art-full_v1.safetensors",
-        "DreamART Style LORA.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/DreamARTSDXL.safetensors",
         "Detail Tweaker XL.safetensors": " https://civitai.com/api/download/models/135867"
     }
 }
