@@ -55,6 +55,7 @@
         "dd-detail-xl.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/add-detail-xl.safetensors",
         "perfectionstyle.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/perfection%20style.safetensors?download=true",
         "DetailedEyes.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/DetailedEyes_V3.safetensors?download=true",
+        "Fruits Lora.safetensors": "https://civitai.com/api/download/models/147001",
         "Detail Tweaker XL.safetensors": " https://civitai.com/api/download/models/135867"
     }
 }
