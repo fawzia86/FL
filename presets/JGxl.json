@@ -1,5 +1,5 @@
 {
-    "default_model": "AlbedoBaseXL.safetensors",
+    "default_model": "sdXL_v10VAE.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -40,7 +40,7 @@
         "AlbedoBaseXL.safetensors": "https://civitai.com/api/download/models/329420",
         "protovisionXL.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/protovisionXLHighFidelity3D_release0630Bakedvae.safetensors?download=true",
         "Juggernaut-XL-v9photo.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-v9/resolve/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors?download=true",
-        "animagine-xl-3.1.safetensors": "https://huggingface.co/cagliostrolab/animagine-xl-3.1/resolve/main/animagine-xl-3.1.safetensors?download=true"
+        "sdXL_v10VAE.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/sdXL_v10VAEFix.safetensors?download=true"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/unaestheticXL_Alb2.safetensors",
