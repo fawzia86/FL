@@ -51,10 +51,13 @@
         "MJ.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/mjilluminate-000010.safetensors",
         "detailed_notrigger.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/detailed_notrigger.safetensors",
         "detailed_hands.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/detailed_hands-000002.safetensors",
-        "dd-detail-xl.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/add-detail-xl.safetensors",
+        "add-detail-xl.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/add-detail-xl.safetensors",
         "perfectionstyle.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/perfection%20style.safetensors?download=true",
         "DetailedEyes.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/DetailedEyes_V3.safetensors?download=true",
-        "Fruits Lora.safetensors": "https://civitai.com/api/download/models/147001",
-        "Detail Tweaker XL.safetensors": " https://civitai.com/api/download/models/135867"
+        "Cuteanimal.safetensors": "https://civitai.com/api/download/models/153732",
+        "xl_more_art-full.safetensors": "https://civitai.com/api/download/models/152309",
+        "extremelydetailed.safetensors": "https://civitai.com/api/download/models/258687",
+        "SmolAnimals.safetensors": "https://civitai.com/api/download/models/209649",
+        "DetailTweakerXL.safetensors": " https://civitai.com/api/download/models/135867"
     }
 }
