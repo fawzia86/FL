@@ -53,10 +53,8 @@
         "detailed_notrigger.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/detailed_notrigger.safetensors",
         "detailed_hands.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/detailed_hands-000002.safetensors",
         "dd-detail-xl.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/add-detail-xl.safetensors",
-        "ChiaroscuroLighting.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/Chiaroscuro%20Lighting%20Style.safetensors?download=true",
         "perfectionstyle.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/perfection%20style.safetensors?download=true",
         "DetailedEyes.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/DetailedEyes_V3.safetensors?download=true",
-        "coolwear.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/CoolWear.safetensors",
         "Detail Tweaker XL.safetensors": " https://civitai.com/api/download/models/135867"
     }
 }
