@@ -57,6 +57,7 @@
         "xl_more_art-full.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/xl_more_art-full_v1.safetensors?download=true",
         "extremelydetailed.safetensors": "https://civitai.com/api/download/models/258687",
         "SmolAnimals.safetensors": "https://civitai.com/api/download/models/209649",
+        "TrashStyleSDXL.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/dvr-trsh.safetensors?download=true",
         "DetailTweakerXL.safetensors": " https://civitai.com/api/download/models/135867"
     }
 }
