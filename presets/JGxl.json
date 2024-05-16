@@ -1,5 +1,5 @@
 {
-    "default_model": "sdXL_v10VAE.safetensors",
+    "default_model": "RealVisXL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     "default_aspect_ratio": "1280*720",
     "checkpoint_downloads": {
         "AlbedoBaseXL.safetensors": "https://civitai.com/api/download/models/329420",
-        "sdXL_v10VAE.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/sdXL_v10VAEFix.safetensors?download=true"
+        "RealVisXL.safetensors": "https://huggingface.co/SG161222/RealVisXL_V4.0/resolve/main/RealVisXL_V4.0.safetensors?download=true"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/unaestheticXL_Alb2.safetensors",
