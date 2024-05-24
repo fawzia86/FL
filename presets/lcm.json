@@ -1,30 +1,25 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "RealVisXL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            true,
+            "sd_xl_offset_example-lora_1.0.safetensors",
+            0.1
+        ],
+        [
             "None",
             1.0
         ],
         [
-            true,
             "None",
             1.0
         ],
         [
-            true,
             "None",
             1.0
         ],
         [
-            true,
-            "None",
-            1.0
-        ],
-        [
-            true,
             "None",
             1.0
         ]
@@ -33,7 +28,7 @@
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
-    "default_performance": "Extreme Speed",
+    "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "",
     "default_styles": [
@@ -42,10 +37,22 @@
     ],
     "default_aspect_ratio": "1280*720",
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+        "RealVisXL.safetensors": "https://huggingface.co/SG161222/RealVisXL_V4.0/resolve/main/RealVisXL_V4.0.safetensors?download=true"
     },
-    "embeddings_downloads": {},
-    "lora_downloads": {},
-    "previous_default_models": [
-    ]
+    "embeddings_downloads": {
+        "unaestheticXLv31.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/unaestheticXL_Alb2.safetensors",
+        "badhandv4:1.4.safetensors": "https://civitai.com/api/download/models/20068",
+        "EasyNegative.safetensors": "https://civitai.com/api/download/models/9208"
+    },    
+    "lora_downloads": {
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
+        "MJ.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/mjilluminate-000010.safetensors",
+        "detailed_notrigger.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/detailed_notrigger.safetensors",
+        "detailed_hands.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/detailed_hands-000002.safetensors",
+        "add-detail-xl.safetensors": "https://huggingface.co/wfdsdfsdfwer/FL/resolve/main/add-detail-xl.safetensors",
+        "perfectionstyle.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/perfection%20style.safetensors?download=true",
+        "DetailedEyes.safetensors": "https://huggingface.co/wfdsdfsdfwer/Photo/resolve/main/DetailedEyes_V3.safetensors?download=true",
+        "extremelydetailed.safetensors": "https://civitai.com/api/download/models/258687",
+        "DetailTweakerXL.safetensors": " https://civitai.com/api/download/models/135867"
+    }
 }
